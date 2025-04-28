@@ -1,0 +1,8 @@
+header {
+    width: 800px;
+    margin-left: calc(50% - 400px); 
+    background-color: pink;
+}
+main {
+    background-color: aliceblue;
+}
