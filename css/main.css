@@ -10,6 +10,16 @@ header {
     margin-left: 100px;
     margin-bottom: 0;
 }
+header > b {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    margin-left: 30px;
+}
+a:hover {
+    color: #434343;
+}
 header > img {
     float : left;
 }
